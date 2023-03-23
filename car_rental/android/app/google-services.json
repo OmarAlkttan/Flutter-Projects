@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "564539419484",
+    "firebase_url": "https://carrental-58b26-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "carrental-58b26",
+    "storage_bucket": "carrental-58b26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564539419484:android:15c0862bfcfcf670de2f99",
+        "android_client_info": {
+          "package_name": "com.example.car_rental"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564539419484-af75f2i4m0gf6atmlr4qil3ea4q0h9qa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzROSnrCeDcNLPFiziElHct6v9YSIHSNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564539419484-af75f2i4m0gf6atmlr4qil3ea4q0h9qa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
